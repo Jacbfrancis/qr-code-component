@@ -55,6 +55,6 @@ I learnt how to use Media queries to target browser by certain characteristics, 
 ## Author
 
 - Website - [ Francis Jacob](https://github.com/Jacbfrancis)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Jacbfrancis)
-- Twitter - [@jacobxavier_](https://twitter.com/jacobxavier_?t=YdJHQngdQYJVbC7mWspqDg&s=08)
+- Frontend Mentor - [Jacbfrancis](https://www.frontendmentor.io/profile/Jacbfrancis)
+- Twitter - [jacobxavier_](https://twitter.com/jacobxavier_?t=YdJHQngdQYJVbC7mWspqDg&s=08)
 
