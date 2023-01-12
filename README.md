@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](screenshot.jpg)
+![](images/screenshot.jpg)
 
 
 ### Links
@@ -37,18 +37,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I learnt how to use Media queries to target browser by certain characteristics, features, and user preferences, then apply styles based on those characteristics. 
+- I learnt how to use Media queries to target browser by certain characteristics and features then apply styles based on those characteristics. 
+
+- I learnt how to use CSS Flexbox to position elements.
 
 ### Continued development
 
-  - Building responsive layouts.
-  - Learn CSS Flexbox.
+  - Building responsive layouts with CSS Flexbox and media queries.
   - Learn the concept of mobile-first workflow.
 
 
 ### Useful resources
 
-- [Google fonts](https://fonts.google.com/) - This helped me to implement fonts on the website, so no trouble with font embedding. 
+- [Google fonts](https://fonts.google.com/) - This helped me to implement fonts on the website. 
 
 
 ## Author
